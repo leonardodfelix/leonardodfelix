@@ -1,4 +1,4 @@
-## Bem vindos :metal:
+## Bem vindos :metal: :brazil:
 
 Vou adicionar repositórios para conhecer o mínimo necessário de cada tecnologia.  
 
