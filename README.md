@@ -1,10 +1,10 @@
-## Bem vindos 👋
+## Bem vindos :metal:
 
 Vou adicionar repositórios para conhecer o mínimo necessário de cada tecnologia.  
 
 Pretendo fazer o básico de front e back end, banco de dados, manipulação e análise de dados, etc... tudo o mais simples e funcional possível.  
 
-Na medida que for criando os repositórios vou adicionando abaixo. :smile:  
+Na medida que for criando os repositórios vou adicionando abaixo. :grin:  
 
 |Tecnologias|Repositórios|
 |---|---|
