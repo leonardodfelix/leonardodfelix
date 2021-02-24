@@ -2,7 +2,7 @@
 
 Vou adicionar repositórios para conhecer o mínimo necessário de cada tecnologia.  
 
-Pretendo fazer o básico de front e back end, banco de dados, manipulação e análise de dados, etc... tudo o mais simples e funcional possível.  
+Pretendo fazer o básico de front end, network, banco de dados, manipulação e análise de dados, business intelligence etc... tudo o mais simples e funcional possível.  
 
 Na medida que for criando os repositórios vou adicionando abaixo. :grin:  
 
