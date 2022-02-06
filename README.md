@@ -17,13 +17,3 @@ Mais de 1500 horas de treinamento que cobre os fundamentos do desenvolvimento we
 </div>
 
 ---
-
-<div align="center">
-	<br>
-    <a href="https://www.betrybe.com/" target="_blank">
-      <img src="trybe.svg" width="400" height="200" alt="Click to see the source">
-    </a>
-	<br>
-</div>
-
-
