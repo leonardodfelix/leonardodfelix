@@ -1,7 +1,7 @@
 <h1 align="center">Welcome / Bem vindos</h1>
 
 ###
-Working as an entry level dev @ [Pitzi](https://pitzi.com.br/)
+Working as a dev @ [Pitzi](https://pitzi.com.br/)
 
 ###
 <div align="center">
