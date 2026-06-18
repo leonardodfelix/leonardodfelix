@@ -1,4 +1,4 @@
-<h1 align="center">Leonardo Felix</h1>
+<h1 align="center">Leonardo D Felix</h1>
 
 <p align="center">
 Ruby on Rails Developer • Legacy Systems • Integrations • PostgreSQL
